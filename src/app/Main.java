@@ -11,7 +11,7 @@ public class Main {
                 new User(1, "Bob", "bob@mail.local"),
                 new User(2, "Tom", "tom@email.local"),
                 new User(3, "Lisa", "lisa@mail.local"),
-                new User(3, "Ann", "ann@mail.local")
+                new User(4, "Ann", "ann@mail.local")
         ));
 
         repository
